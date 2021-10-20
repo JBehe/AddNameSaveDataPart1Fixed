@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">addNameSaveData</string>
+    <string name="editTextName">Enter name</string>
+    <string name="DisplayNames">no Names to display</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
